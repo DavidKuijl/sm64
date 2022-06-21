@@ -52,6 +52,12 @@ Dependency installation instructions for common Linux distros are provided below
 
 ##### Debian / Ubuntu
 To install build dependencies:
+
+(optional in case of error)
+```
+sudo apt-get update -y
+```
+
 ```
 sudo apt install -y binutils-mips-linux-gnu build-essential git libcapstone-dev pkgconf python3
 ```
