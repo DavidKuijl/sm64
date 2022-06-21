@@ -29,7 +29,7 @@ Ensure the repo path length does not exceed 255 characters. Long path names resu
 Install WSL and a distro of your choice following
 [Windows Subsystem for Linux Installation Guide for Windows 10.](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 We recommend either Debian or Ubuntu 18.04 Linux distributions under WSL.
-Note: WSL1 does not currently support Ubuntu 20.04.
+Note: WSL installs Ubuntu 20.04. Not sure if this causes problems.
 
 Next, clone the SM64 repo from within the Linux shell:
 `git clone https://github.com/n64decomp/sm64.git`
