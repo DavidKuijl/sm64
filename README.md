@@ -1,7 +1,9 @@
-# Super Mario 64
-
+# Super Mario 64 mod
 - This repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
 - Naming and documentation of the source code and data structures are in progress.
+
+- IMPORTANT NOTICE: This fork will no longer be updated from the original sm64 repo. I would like to use this as a means of learning so, some code
+  will change to 'experimental'. The goal is however, to keep complete compatibility with the N64 Console thus playable on original hardware.
 
 It builds the following ROMs:
 
